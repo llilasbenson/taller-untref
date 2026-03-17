@@ -9,6 +9,82 @@
       ]
     },
     {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://memoriaabierta.org.ar/wp/wp-content/uploads/2015/01/LOGO.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Texto contextual "
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "c8ec5e0a-0642-4e88-82df-a4be0395d64a",
       "includes": [
@@ -35,7 +111,7 @@
   "created_by": "llilasbenson",
   "title": "Responsabilidad Mediata",
   "slug": "responsabilidad-mediata",
-  "updated_at": "2026-03-17T21:27:40.978Z",
+  "updated_at": "2026-03-17T21:30:36.285Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
     "enabled": false,
