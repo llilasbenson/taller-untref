@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "llilasbenson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "llilasbenson",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-17T21:12:46.986Z",
-    "updated_at": "2026-03-17T21:12:46.986Z"
-  }
+    "updated_at": "2026-03-17T21:12:46.986Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "15e60b5f-cc54-4c70-bf13-27f16bd053fd": {
+      "content": [],
+      "created_at": "2026-03-17T21:12:47.006Z",
+      "created_by": "llilasbenson",
+      "title": "Taller UNTREF",
+      "updated_at": "2026-03-17T21:12:47.006Z",
+      "updated_by": "llilasbenson",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "15e60b5f-cc54-4c70-bf13-27f16bd053fd"
+  ]
 }
