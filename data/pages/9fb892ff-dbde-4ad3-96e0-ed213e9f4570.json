@@ -111,10 +111,10 @@
   "created_by": "llilasbenson",
   "title": "Responsabilidad Mediata",
   "slug": "responsabilidad-mediata",
-  "updated_at": "2026-03-17T21:30:36.285Z",
+  "updated_at": "2026-04-23T14:35:02.049Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "c8ec5e0a-0642-4e88-82df-a4be0395d64a"
   }
