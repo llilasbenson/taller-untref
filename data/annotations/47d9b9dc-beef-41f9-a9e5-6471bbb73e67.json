@@ -1415,6 +1415,478 @@
         }
       ],
       "uuid": "47250731-4834-4653-95d8-0052537939d3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Título"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a8f9d2f2-2cc8-41f2-815d-e994058ac935"
+    },
+    {
+      "start_time": 7,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "db392f8a-46bf-46b9-8f0f-373f90d0abb9"
+    },
+    {
+      "start_time": 15,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Videla, Jorge Rafael, 1925-2013",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "fe926add-429f-4e73-9533-7401b96ced9e"
+    },
+    {
+      "start_time": 18,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Fumar—Inhalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "b7dd3273-502d-4183-86b4-fdaf54ed6366"
+    },
+    {
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "feabb26a-23f2-4a59-8f0d-70d3bfb7b79c"
+    },
+    {
+      "start_time": 30,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Papel",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "389638f7-901d-47ef-a194-3d8b046cce0d"
+    },
+    {
+      "start_time": 40,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Gesto—Hacer un círculo",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "611acd0c-e6e4-412a-b73b-4d8f9ebba2b7"
+    },
+    {
+      "start_time": 48,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Primer plano—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Videla, Jorge Rafael, 1925-2013",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "8b514f03-ec99-4d48-be1e-c903d896a3c9"
+    },
+    {
+      "start_time": 52,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zoom out—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "ee11a97b-b1d2-490f-af07-879fca320de4"
+    },
+    {
+      "start_time": 58,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Zoom out—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "cb6c988d-db97-46dc-afda-46ddf67646a8"
+    },
+    {
+      "start_time": 68,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Declaración del problema jurídico"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Zoom out—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Pausa—Larga",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "88260e9d-61e2-43f0-8026-ad563b621fd8"
+    },
+    {
+      "start_time": 74,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delitos cometidos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Repetición",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Señalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "4b4fb308-9433-4f2d-af5d-6712b74ec33d"
+    },
+    {
+      "start_time": 90,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Señalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "015af924-582f-4230-b15c-7b12e4439d57"
     }
   ],
   "event_id": "c8ec5e0a-0642-4e88-82df-a4be0395d64a",
